@@ -1,6 +1,7 @@
 *.tfvars
 *.tfvars.json
-
+infra/.terraform/*
+*.exe
 **/.terraform/*
 *.tfstate
 *.tfstate.*
