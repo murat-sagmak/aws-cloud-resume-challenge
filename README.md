@@ -18,6 +18,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - Terraform
 
 ## [Live Demo 🔗](https://resume.muratsagmak.site)
+## [Documentation 🔗](https://rumbling-chickadee-61d.notion.site/AWS-Resume-Challenge-Documentation-1c62a27b28f280aa9d71ca66c1974849)
 
 
  
